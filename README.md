@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Hi, I’m Albaraa</h1> 
-<h2 align="center">Frontend JavaScript Web Developer</h2> 
+<h2 align="center">Full Stack Web Developer</h2> 
 
 
   <div style="display: inline_block" align="center"><br>
